@@ -47,6 +47,5 @@ Blue Teaming
 📫 Connect with Me
 
 LinkedIn :- www.linkedin.com/in/jaison-jerald-79b9271b9
-GitHub   :- https://github.com/jaisonjerald
-Email    :- jaisonjerald98@gmail.com
+
 -->
