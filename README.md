@@ -1,51 +1,71 @@
-👋 Hi, I'm Jaison Jerald
+# 👋 Hi, I'm Jaison Jerald
 
-🛡️ CEH Certified
-💻 IT Support Professional (3+ Years)
-🔐 Cybersecurity Enthusiast
+## 🛡️ Cybersecurity Enthusiast | CEH Certified | IT Support Professional
 
--------------------------------------
+I am a cybersecurity enthusiast with **3+ years of IT Support experience** and an **EC-Council Certified Ethical Hacker (CEH)** certification.
 
-🚀 Skills
+I enjoy building practical cybersecurity labs to strengthen my skills in:
 
-• Network Security
-• Wireshark
-• Nmap
-• Windows Server
-• Active Directory
-• Kali Linux
-• Burp Suite
-• Nessus
-• Wazuh
-• Splunk
+- Network Security
+- Ethical Hacking
+- Vulnerability Assessment
+- Security Operations Center (SOC)
+- Threat Detection
+- Incident Response
 
--------------------------------------
+---
 
-📂 Featured Projects
+## 🚀 Featured Projects
 
-🦈 Wireshark Network Analysis
+### 🦈 Wireshark Network Analysis
+Hands-on packet analysis covering:
+- ARP
+- ICMP
+- DNS
+- TCP
+- TLS
 
-🌐 Nmap Network Scanning
+### 🌐 Nmap Network Scanning
+Practical network reconnaissance covering:
+- Host Discovery
+- TCP Connect Scan
+- SYN Scan
+- Version Detection
+- OS Detection
+- NSE Scripts
+- UDP Scan
 
--------------------------------------
+---
 
-📜 Certifications
+## 🛠️ Technologies & Tools
 
-✔ Certified Ethical Hacker (CEH)
+- Kali Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- Nessus
+- Active Directory
+- Windows Server
+- Oracle VirtualBox
+- Git & GitHub
 
--------------------------------------
+---
 
-🎯 Currently Learning
+## 📜 Certifications
 
-SOC Operations
-Threat Hunting
-Incident Response
-Blue Teaming
+- EC-Council Certified Ethical Hacker (CEH)
 
--------------------------------------
+---
 
-📫 Connect with Me
+## 🌱 Currently Learning
 
-LinkedIn :- www.linkedin.com/in/jaison-jerald-79b9271b9
+- Wazuh SIEM
+- Splunk
+- Incident Response
+- Threat Hunting
 
--->
+---
+
+## 📫 Connect with Me
+
+- LinkedIn  :- www.linkedin.com/in/jaison-jerald-79b9271b9
