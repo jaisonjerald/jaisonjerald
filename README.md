@@ -54,6 +54,8 @@ Practical network reconnaissance covering:
 ## 📜 Certifications
 
 - EC-Council Certified Ethical Hacker (CEH)
+- 🛡️ EC-Council Certified Ethical Hacker (CEH)
+- 🎓 Advanced Diploma in Cyber Defense (ADCD v3) – REDTEAM Hacker Academy
 
 ---
 
