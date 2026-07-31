@@ -70,51 +70,33 @@ I enjoy learning through real-world labs focused on:
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Cybersecurity Projects
 
-## 🦈 Wireshark Network Analysis
+### 🕷️ Burp Suite Web Security
+Hands-on web application security testing using Burp Suite Community Edition and OWASP Juice Shop.
 
-Packet analysis covering:
-
-- ARP
-- ICMP
-- DNS
-- TCP
-- TLS
-
-🔗 https://github.com/jaisonjerald/wireshark-network-analysis
+🔗 https://github.com/jaisonjerald/burp-suite-web-security
 
 ---
 
-## 🌐 Nmap Network Scanning
+### 🛡️ Nessus Vulnerability Assessment
+Performed vulnerability assessment of Windows systems using Nessus Essentials.
 
-Hands-on network reconnaissance covering:
+🔗 https://github.com/jaisonjerald/nessus-vulnerability-assessment
 
-- Host Discovery
-- TCP Connect Scan
-- SYN Scan
-- Version Detection
-- OS Detection
-- NSE Scripts
-- UDP Scan
+---
+
+### 🌐 Nmap Network Scanning
+Practical network discovery, service enumeration, and operating system detection using Nmap.
 
 🔗 https://github.com/jaisonjerald/nmap-network-scanning
 
 ---
 
-## 🛡️ Nessus Vulnerability Assessment
+### 🦈 Wireshark Network Analysis
+Analyzed ARP, ICMP, DNS, TCP, and TLS traffic to understand network communication.
 
-Practical vulnerability assessment using Nessus Essentials.
-
-Topics include:
-
-- Installation
-- Scanner Configuration
-- CVSS
-- Windows 11 Assessment
-- Vulnerability Documentation
-
-🔗 https://github.com/jaisonjerald/nessus-vulnerability-assessment
+🔗 https://github.com/jaisonjerald/wireshark-network-analysis
 
 ---
 
